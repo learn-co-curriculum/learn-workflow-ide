@@ -24,22 +24,19 @@ Note: This button is only active for labs and will be inactive for lessons that 
 
 ![Learn Open](https://s3.amazonaws.com/learn-verified/LearnOpen.png) 
 
-This will launch your IDE application (you might be prompted to actually allow the IDE to launch). 
+This will launch the Learn IDE application.
 
 ### What does the Open button do?
 
-
 1. It uses the GitHub API to "fork" the lab on your behalf. This means it creates a copy of the lab's repository for you and associates it with your GitHub account.
-2. It then "clones" that copy of the repo down to your nitrous IDE automatically, so that you have a local copy of the source code to work with. This is what you'll be using to solve the lab.
-3. It then "cd's" into the lab's directory on your nitrous.
-
-**To start working on the lab, navigate in the file browser to that lab's directory.**
+2. It then "clones" that copy of the repo down to your Learn IDE automatically, so that you have a copy of the source code to work with. This is what you'll be using to solve the lab.
+3. It then "cd's" into the lab's directory so that you're ready to go.
 
 ## Solving a Lab
 
 ** Key takeaway: use the `learn` command to run tests until they all pass. **
 
-Once you've opened your lab in the IDE, you'll be ready to start solving it. This is the fun part!
+Once you've opened your lab in the Learn IDE, you'll be ready to start solving it. This is the fun part!
 
 All of the labs on Learn are written with an RSpec test suite that you can use to confirm that you've fulfilled the requirements of the lab. RSpec is a testing library that ruby developers use everyday, so again, as you work on Learn, you're also learning the same tools and workflows that developers use.
 
@@ -155,12 +152,14 @@ You'll notice that on Learn, the light labelled "Pull Request" will turn green w
 
 To summarize, the workflow you'll be using to solve labs on Learn:
 
-Use the Open button clone the lab locally to your IDE so you can work on it.
+Use the Open button clone the lab to your Learn IDE so you can work on it.
 Use `learn test` to run your local tests.
 Use `learn submit` to submit your solution.**
 
-And always make sure you have a working internet connection so that you can save and submit your labs. 
+And always make sure you have a working Internet connection so that you can save and submit your labs. 
 
 You are now ready to practice the Learn workflow with your first lab! Congratulations!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/learn-workflow-ide'>Learn Workflow IDE</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/learn-workflow-ide'>Learn Workflow</a> on Learn.co and start learning to code for free.</p>
