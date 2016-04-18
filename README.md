@@ -52,7 +52,7 @@ Read the lab's README on Learn and get a sense of what the lab is about and what
 
 Before doing any work, run the test suite from your local clone with the `learn` CLI command. From your terminal, in a lab's directory, run `learn`, you'll see something similar to:
 
-![Failing Test](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_fail.png)
+![Failing Test](https://s3.amazonaws.com/learn-verified/LearnRunningLearrn.png)
 
 I know error messages or failure messages are intimidating, but try to read them. Developers are detectives, constantly sleuthing for the bug that's the culprit. Errors and failures are our clues, they illuminate the path forward.
 
@@ -122,7 +122,7 @@ Programming is never about getting it all right at once. Programming is like sol
 Follow this workflow: running tests, reading errors, writing code, saving code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, saving the code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're stuck or tired and just need some help, Ask a Question and the Learn community will be there for you.
 
 Eventually your local tests will pass and Learn will indicate your success.
-![Pass](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_success.png)![Lights](https://curriculum-content.s3.amazonaws.com/learn-ver/local_build_passes.png)
+![Pass](https://s3.amazonaws.com/learn-verified/LearnTest.png)
 
 On the left is a passing test run in the terminal. On the right is what the right column in Learn looks like for a passing local test (which we currently call a "Local Build").
 
@@ -142,7 +142,7 @@ learn submit
 
 That's all it takes, you can run `learn submit` from any lab directory and your solution will be submitted to Learn for review.
 
-![learn submit](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_learn_submit_gif.gif)
+![learn submit](https://s3.amazonaws.com/learn-verified/LearnSubmit.png)
 
 You'll notice that on Learn, the light labelled "Pull Request" will turn green when your code has been submitted.
 
