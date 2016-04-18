@@ -142,7 +142,7 @@ learn submit
 
 That's all it takes, you can run `learn submit` from any lab directory and your solution will be submitted to Learn for review.
 
-![learn submit](https://s3.amazonaws.com/learn-verified/LearnSubmit.png)
+![learn submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
 You'll notice that on Learn, the light labelled "Pull Request" will turn green when your code has been submitted.
 
