@@ -122,7 +122,7 @@ Programming is never about getting it all right at once. Programming is like sol
 Follow this workflow: running tests, reading errors, writing code, saving code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, saving the code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're stuck or tired and just need some help, Ask a Question and the Learn community will be there for you.
 
 Eventually your local tests will pass and Learn will indicate your success.
-![Pass](https://s3.amazonaws.com/learn-verified/LearnTest.png)
+![Pass](https://s3.amazonaws.com/learn-verified/LearnChangingCode.png)
 
 On the left is a passing test run in the terminal. On the right is what the right column in Learn looks like for a passing local test (which we currently call a "Local Build").
 
@@ -159,7 +159,5 @@ Use `learn submit` to submit your solution.**
 And always make sure you have a working Internet connection so that you can save and submit your labs. 
 
 You are now ready to practice the Learn workflow with your first lab! Congratulations!
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/learn-workflow-ide'>Learn Workflow IDE</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/learn-workflow-ide'>Learn Workflow</a> on Learn.co and start learning to code for free.</p>
