@@ -146,9 +146,11 @@ That's all it takes. You can run `learn submit` from any lab directory and your 
 
 ![learn submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
-You'll notice that on Learn, the light labelled "Pull Request" will turn green when your code has been submitted.
+You'll notice that on Learn, the light labelled "Pull Request" will turn green when your code has been submitted, the lab lights will fold away and a "Share your Success" button will take its place. Click on it to let your friends know about a job well done!
 
-![PR](https://dl.dropboxusercontent.com/s/zw5axlrl07e4yj3/2015-10-02%20at%201.25%20AM.png)
+![PR](https://curriculum-content.s3.amazonaws.com/intro-to-learn/share-button-animation.gif)
+
+![sharemodal](https://curriculum-content.s3.amazonaws.com/intro-to-learn/sharemodal.png)
 
 ## Conclusion
 
