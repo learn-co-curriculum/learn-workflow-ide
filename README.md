@@ -34,7 +34,7 @@ This will launch the Learn IDE application.
 
 ## Solving a Lab
 
-** Key takeaway: use the `learn` command to run tests until they all pass. **
+**Key takeaway: use the `learn` command to run tests until they all pass.**
 
 Once you've opened your lab in the Learn IDE, you'll be ready to start solving it. This is the fun part!
 
@@ -46,11 +46,11 @@ When you work on a lab, we recommend the following workflow:
 
 ### 1. Reading the README
 
-Read the lab's README on Learn and get a sense of what the lab is about and what it is asking you to build. Read the entire README and then work on the lab and as you hit hurdles you'll have a context for where to look for clues and hints in the README.
+Read the lab's README on Learn and get a sense of what the lab is about and what it is asking you to build. Read the entire README and then work on the lab.  As you hit hurdles you'll have some context on where to look for clues and hints in the README.
 
 ### 2. Run the tests with `learn`
 
-Before doing any work, run the test suite from your local clone with the `learn` CLI command. From your terminal, in a lab's directory, run `learn`, you'll see something similar to:
+Before doing any work, run the test suite from your local clone with the `learn` CLI command. From your terminal, in a lab's directory, run `learn`. You'll see something similar to:
 
 ![Failing Test](https://s3.amazonaws.com/learn-verified/LearnRunningLearrn.png)
 
@@ -74,13 +74,15 @@ describe 'First Lab:' do
 end
 ```
 
-You haven't even written a line of code yet and we're asking you to read some very abstract and complex code and try to reach for any footing or understanding. We believe in you. We believe you can infer and deduce and understand a bit of the code above, even with no experience. Your mind is  incredibly powerful. Challenge yourself and confront the unknown. That's how learning works.
+Read it through and see what meaning you can extract from it.
+
+You haven't even written a line of code yet and we're asking you to read some very abstract and complex code and try to reach for any footing or understanding. We believe in you. We believe you can infer and deduce and understand a bit of the code above, even with no experience. Your mind is incredibly powerful. Challenge yourself and confront the unknown. That's how learning works.
 
 Beyond all the syntax and code above, can you decipher what we're asking for? What the lab requires you to do? How the test works? Again, even if you only get 10% of the expectations of the test, that's still something. And while you do that, 4 things will happen.
 
 1. You'll have 10% more understanding of how to solve the lab.
 
-2. You'll get better at reading tests and we bet that the next test you read you'll get 12% of it and constantly see improvement through old fashioned practice and determination.
+2. You'll get better at reading tests and we bet that the next test you read you'll get 12% of it. You'll constantly see improvement through old fashioned practice and determination.
 
 3. Almost unconsciously, like Mr. Miyagi in the Karate Kid, you'll actually learn how to read and write tests proficiently, "Wax on, wax off" style.
 
@@ -112,14 +114,14 @@ You should keep on trying until you get it working. It doesn't matter how many t
 
 You should ask for help on Learn.
 
-Programming is never about getting it all right at once. Programming is like solving a puzzle, you don't try to put it together immediately, you approach it one piece at a time. The workflow we're describing optimizes this process, trial and error, attempts and feedback, insight through failure. Most of our time as programmers is spent staring at error message and code wondering, "Hmm".
+Programming is never about getting it all right at once. Programming is like solving a puzzle, you don't try to put it together immediately, you approach it one piece at a time. The workflow we're describing optimizes this process, trial and error, attempts and feedback, insight through failure. Most of our time as programmers is spent staring at error messages and code wondering, "Hmm".
 
 #### Programming in Movies vs Real Life
 <iframe src="https://vine.co/v/hPXTA6l9AqQ/embed/simple" width="600" height="600" frameborder="0"></iframe>
 
 ### 5. Pass your local tests with `learn`
 
-Follow this workflow: running tests, reading errors, writing code, saving code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, saving the code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're stuck or tired and just need some help, Ask a Question and the Learn community will be there for you.
+Follow this workflow: running tests, reading errors, writing code, saving code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, saving the code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're stuck or tired and just need some help, Ask a Question, Study Groups and the Learn community will be there for you.
 
 Eventually your local tests will pass and Learn will indicate your success.
 ![Pass](https://s3.amazonaws.com/learn-verified/LearnChangingCode.png)
@@ -140,7 +142,7 @@ In order to submit your solution to Learn, from the lab's directory in your Term
 learn submit
 ```
 
-That's all it takes, you can run `learn submit` from any lab directory and your solution will be submitted to Learn for review.
+That's all it takes. You can run `learn submit` from any lab directory and your solution will be submitted to Learn for review.
 
 ![learn submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
