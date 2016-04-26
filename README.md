@@ -157,7 +157,7 @@ You'll notice that on Learn, the light labelled "Pull Request" will turn green w
 To summarize, the workflow you'll be using to solve labs on Learn:
 
 Use the Open button to clone the lab to your Learn IDE so you can work on it.
-Use `learn test` to run your local tests.
+Use `learn` to run your local tests.
 Use `learn submit` to submit your solution.
 
 And always make sure you have a working Internet connection so that you can save and submit your labs. 
@@ -165,3 +165,5 @@ And always make sure you have a working Internet connection so that you can save
 You are now ready to practice the Learn workflow with your first lab! Congratulations!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/learn-workflow-ide'>Learn Workflow</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/learn-workflow-ide'>Learn Workflow</a> on Learn.co and start learning to code for free.</p>
